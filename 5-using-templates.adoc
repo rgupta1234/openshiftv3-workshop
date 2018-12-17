@@ -199,7 +199,7 @@ Enter the following values for each parameters:
 [width="50%",options="header"]
 |=========================================================
 |Name |Git Repository URL
-|dbtest   |https://github.com/VeerMuchandi/dbtest
+|dbtest   |https://github.com/rgupta1234/dbtest
 |=========================================================
 
 Click onto the link "Show advanced routing, build, and deployment
